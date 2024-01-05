@@ -25,6 +25,6 @@ Neste projeto, foi criado uma tela simples de reprodução de um filme na plataf
 
 ```bash
 # Exemplo de comando de instalação
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+git clone [https://github.com/AnnaKarolineNunes/Netflix.git]
+cd Netflix
 ./gradlew installDebug
