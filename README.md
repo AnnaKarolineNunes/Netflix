@@ -19,8 +19,8 @@ Neste projeto, foi criado uma tela simples de reprodução de um filme na plataf
 
 ## Instalação
 
--Ter o android studio instalado e devidamente configurado com a API 34 ou a mais recente
--Ter o emulador instalado ( tela : PIXEL 2 API 27 ) 
+- Ter o android studio instalado e devidamente configurado com a API 34 ou a mais recente
+- Ter o emulador instalado ( tela : PIXEL 2 API 27 ) 
 
 
 ```bash
